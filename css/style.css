@@ -1,0 +1,188 @@
+/* CSS Document */
+* {
+  font-family:"Times New Roman", Times, serif;
+  border: 0px solid rgba(0, 0, 0, 0.3);
+}
+
+nav {
+  background-color: white;
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+header {
+  background-color: white;
+  position: fixed ;
+  top: 0;
+  width: 100%;
+  padding: 10px;
+}
+
+.barismenu{
+	margin:0;
+	padding: 17px 40px;
+}
+
+.right{
+	width:450px;
+	float:right;
+    overflow:hidden;
+    padding:0px 0px 0px 0px;
+	
+}
+
+.bold{
+	font-weight:bold;
+}
+
+section {
+  margin: 50px 0 0px 0;
+  background: url("https://github.com/hacktiv8/phase-0-activities/blob/master/modules/assets/sample-pattern.png?raw=true");
+  overflow: scroll;
+}
+
+h1 {
+  color: #3F403F;
+  font-size: 2.5em;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a li {
+  font-weight: bold;
+  font-family:"Times New Roman", Times, serif;
+  text-decoration: initial;
+  display: inline-block;
+  margin: 0 20px 0 0;
+}
+
+article {
+  border-bottom: 1px solid #E5E4E4;
+  padding: 10px;
+}
+
+#article-ls {
+  background-color: white;
+  margin: 0 auto 40px auto;
+  width: 70%;
+  height: auto;
+  overflow: hidden;
+}
+
+a {
+  color:#000000;
+  text-decoration: initial;
+}
+
+p {
+  margin: 10px;
+  position: center;
+}
+
+h3 {
+  margin: 10px;
+  position: center;
+}
+
+
+footer {
+  padding: 10px;
+  background-color: #403F3F;
+  color: white;
+  text-align: center;
+}
+
+<!--box html dan css-->
+
+/* Style Default */
+body {
+  font-family: 'Slabo 27px', serif;
+}
+
+h1 {
+  border-bottom: 1px solid rgba(0, 0, 0, .1);
+  padding-bottom: 10px;
+}
+
+.separator {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+/* Style Untuk Soal 1, 2, dan 3. Gunakan Dengan Sesuai! */
+
+.box-100 {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  font-size: 15pt;
+  text-align: center;
+}
+
+.box-200 {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  font-size: 15pt;
+  text-align: center;
+}
+
+#maroon-box {
+  color: #FFFFFF;
+  background: #96281B;
+}
+
+#dark-blue-box {
+  color: #FFFFFF;
+  background: #4B77BE;
+}
+
+#salem-box {
+  color: #FFFFFF;
+  background: #1E824C;
+}
+
+#black-background {
+  color:#FFFFFF;
+  background:#333333;
+}
+
+.red-background {
+  color: #FFFFFF;
+  background: #C0392B;
+}
+
+.blue-background {
+  color: #FFFFFF;
+  background: #446CB3;
+}
+
+.green-background {
+  color: #FFFFFF;
+  background: #26A65B;
+}
+
+.box-list div {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin: 20px;
+  padding: 20px;
+  font-size: 15pt;
+  text-align: center;
+  background: #353535;
+  color: #FFFFFF;
+}
+
+#gold-box {
+  border-radius: 20px;
+  color: #353535;
+  background: #F9BF3B;
+}/* CSS Document */
+
